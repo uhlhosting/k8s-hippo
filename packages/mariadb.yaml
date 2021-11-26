@@ -1,5 +1,5 @@
 name: mariadb
-package: stable/mariadb
+package: bitnami/mariadb
 values:
   global:
     storageClass: {{ config.storageClass }}
