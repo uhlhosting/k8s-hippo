@@ -1,5 +1,5 @@
 config:
-  domain: postal.mydomain.com
+  domain: post.uhl.cloud
 secrets:
   mariadb:
     _rootPassword:

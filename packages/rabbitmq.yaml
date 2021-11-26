@@ -1,5 +1,5 @@
 name: rabbitmq
-package: stable/rabbitmq
+package: bitnami/rabbitmq
 values:
   global:
     storageClass: {{ config.storageClass }}
